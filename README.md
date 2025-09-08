@@ -1,18 +1,18 @@
 # Hi, I'm Bhuvan Hospet  
-🎓 Computer Science & Business Administration @ Northeastern University | 📍 Boston, MA  
+Computer Science & Business Administration @ Northeastern University | 📍 Boston, MA  
 
 ---
 
 ## About Me  
 I’m a Software Developer passionate about **full-stack development, data science, and AI-driven applications**. I love building tools that solve real-world problems—from nonprofit resource platforms to trading simulators and policy analysis apps.  
 
-💡 Availability: **Jan 2026 – Aug 2026**  
-📫 Reach me: hospet.b@northeastern.edu  
-🌐 [LinkedIn](https://linkedin.com/in/bhuvan-hospet) | [GitHub](https://github.com/bhuvanh66)  
+Availability: **Jan 2026 – Aug 2026**  
+Reach me: hospet.b@northeastern.edu  
+[LinkedIn](https://linkedin.com/in/bhuvan-hospet) | [GitHub](https://github.com/bhuvanh66)  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠Technical Skills  
 **Languages:** Java, Python, SQL, TypeScript, Swift, HTML/CSS  
 **Frameworks & Libraries:** React, Node.js, Flask, pandas, NumPy, Matplotlib, Streamlit  
 **Tools & Platforms:** AWS (Cloud Practitioner Certified), Prisma, Docker, Git, VS Code, XCode, IntelliJ, PyCharm  
@@ -46,7 +46,7 @@ I’m a Software Developer passionate about **full-stack development, data scien
 
 ---
 
-## 📊 Projects  
+## Projects  
 
 ### [ShelterLink](https://github.com/Code-4-Community/shelter-link)  
 *Next.js, React, Swift, AWS, AI Scripting*  
@@ -89,7 +89,7 @@ I’m a Software Developer passionate about **full-stack development, data scien
 
 ---
 
-## 🏆 Honors & Awards  
+## Honors & Awards  
 - 🥇 **VITAL Hackathon 1st Place Winner**  
 - 🎖️ John Martinson’s Honors Program  
 - 🏅 Leo P. Gallagher Community Award  
