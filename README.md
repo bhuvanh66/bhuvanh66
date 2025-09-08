@@ -46,19 +46,46 @@ I’m a Software Developer passionate about **full-stack development, data scien
 
 ---
 
-## Projects  
+## 📊 Projects  
 
-### [Policy Playground](https://github.com/bhuvanh66/policy-playground)  
+### [ShelterLink](https://github.com/Code-4-Community/shelter-link)  
+*Next.js, React, Swift, AWS, AI Scripting*  
+- Built for **Code4Community**, ShelterLink connects **20+ Boston LGBTQ+ youth charities** with volunteers and resources  
+- Developed scalable features for nonprofits using **AWS Cloud Architecture**  
+- Focused on improving accessibility and efficiency of nonprofit operations  
+
+---
+
+### [Policy Playground](https://github.com/guha-mahesh/PolicyPlayground)  
 *SQL, Python, Flask, Streamlit, REST API*  
-- Forecasted **national GDP** using Linear Regression  
-- Policy similarity scoring with **Cosine Similarity**  
-- Interactive platform for economists, politicians & activists to share proposals  
+- Forecasts **national GDP** with Linear Regression on historical policy + economic data  
+- Implements **Cosine Similarity** to score policy overlap  
+- Provides an interactive platform for politicians, economists & activists to **share and compare proposals**  
 
-### [Monte Carlo Stock Simulator](https://github.com/bhuvanh66/montecarlo-simulator)  
-*Python, Yahoo Finance, Seaborn, Plotly*  
-- Automated retrieval + preprocessing of **10,000+ stock price records**  
-- Built an interactive **Streamlit dashboard** with 5+ visualization modules  
-- Fully customizable simulation for **portfolio risk analysis**  
+---
+
+### [Monte Carlo Stock Simulator](https://github.com/TamidNortheastern/monte-carlo)  
+*Python, Yahoo Finance, Seaborn, Plotly, Streamlit*  
+- Automated retrieval + preprocessing of **10,000+ stock price records** for financial analysis  
+- Interactive dashboard with **5+ visualization modules**  
+- Fully customizable **Monte Carlo simulation** (time horizon, volatility, run count) to explore risk & portfolio trends  
+
+---
+
+### [SpotiRecs](https://github.com/TamidNortheastern/SpotiRecs)  
+*React, Flask, Spotify API, Scikit-learn*  
+- Full-stack web app that analyzes user-input songs and recommends new songs with similar “vibes”  
+- Uses **K-Means clustering** on audio features (danceability, energy, tempo, acousticness, valence, genre)  
+- Provides a playlist-like album experience with a custom **Album Builder UI**  
+
+---
+
+### [Vital Hacks: Medical Symptom Diagnostic Tool](https://github.com/mehanana/vital_hacks_2025)  
+*React, Node.js, NIH Open API*  
+- Web app to help users identify potential medical conditions based on symptoms  
+- Interactive questionnaire with **real-time progress tracking**  
+- Integrated **NIH Open API** for disease info + responsive design for all devices  
+- Built during **VITAL Hackathon 2025** → **🏆 1st Place Winner**  
 
 ---
 
