@@ -82,8 +82,8 @@ Reach me: hospet.b@northeastern.edu
 
 ### [Vital Hacks: Medical Symptom Diagnostic Tool](https://github.com/mehanana/vital_hacks_2025)  
 *React, Node.js, NIH Open API*  
-- Web app to help users identify potential medical conditions based on symptoms  
-- Interactive questionnaire with **real-time progress tracking**  
+- Web app adaptive survery tool for healthcare professionals to quickly gather information on patient pain levels  
+- Interactive skeletomuscular questionnaire with **real-time progress tracking**  
 - Integrated **NIH Open API** for disease info + responsive design for all devices  
 - Built during **VITAL Hackathon 2025** → **🏆 1st Place Winner**  
 
