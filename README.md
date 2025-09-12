@@ -4,7 +4,7 @@ Computer Science & Business Administration @ Northeastern University | 📍 Bost
 ---
 
 ## About Me  
-I’m a Software Developer passionate about **full-stack development, data science, and AI-driven applications**. I love building tools that solve real-world problems—from nonprofit resource platforms to trading simulators and policy analysis apps.  
+I’m passionate about **full-stack development, data science, and AI-driven applications**. Through building practical, adaptable systems that align technology with user experience, I ensure that every solution not only meets business goals but also delivers meaningful value to end users.
 
 Availability: **Jan 2026 – Aug 2026**  
 Reach me: hospet.b@northeastern.edu  
@@ -30,8 +30,10 @@ Reach me: hospet.b@northeastern.edu
 
 ### **TAMID Group** (Jan 2025 – Present)  
 *Software Developer* | Boston, MA  
-- Developing a **collaborative music recommendation model** using ML + Next.js/React  
-- Selected among 240+ applicants for Tech Consulting track, working with Israeli startups  
+- Developing Foresight, an AI-driven data analysis tool to forecast demand and enable dynamic hotel pricing
+- Utilizing Next.JS, React, and machine learning to build collaborative music recommendation model and platform
+- Selected as a member of education class from 240+ applicants, learning financial and technical concepts
+
 
 ### **Style.re** (Jun 2025 – Aug 2025)  
 *Software Engineering Intern* | Dallas, TX  
