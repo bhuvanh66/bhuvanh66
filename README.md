@@ -7,8 +7,10 @@ Computer Science & Business Administration @ Northeastern University | 📍 Bost
 I’m passionate about **full-stack development, data science, and AI-driven applications**. Through building practical, adaptable systems that align technology with user experience, I ensure that every solution not only meets business goals but also delivers meaningful value to end users.
 
 Availability: **Jan 2026 – Aug 2026**  
-Reach me: hospet.b@northeastern.edu  
-[LinkedIn](https://linkedin.com/in/bhuvan-hospet) | [GitHub](https://github.com/bhuvanh66)  
+Reach me: hospet.b@northeastern.edu
+- **Personal Website:** [bhuvanhospet.vercel.app](https://bhuvanhospet.vercel.app)  
+- **LinkedIn:** [linkedin.com/in/bhuvan-hospet](https://linkedin.com/in/bhuvan-hospet)  
+- **GitHub:** [github.com/bhuvanh66](https://github.com/bhuvanh66)  
 
 ---
 
